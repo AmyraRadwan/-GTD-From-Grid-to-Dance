@@ -1,4 +1,4 @@
-# [GTD] From Grid to Dance (Labor)
+# [GTD] From Grid to Dance – 1 Session
 
-Hier findet ihr das Kursmaterial nach Kursterminen sortiert.<br />
+Hier findet ihr das Kursmaterial für die erste Session.<br />
 Für den Download auf den grünen Button drücken und dann auf "Download ZIP".
