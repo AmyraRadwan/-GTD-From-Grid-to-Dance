@@ -1,2 +1,4 @@
-# -GTD-From-Grid-to-Dance
-[GTD] From Grid to Dance (Laborkurs) – HAW WiSe 2024/25
+# [GTD] From Grid to Dance (Labor)
+
+Hier findet ihr das Kursmaterial nach Kursterminen sortiert.
+Für den Download auf den grünen Button drücken.
