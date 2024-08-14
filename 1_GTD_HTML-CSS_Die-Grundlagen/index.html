@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="de">
+	<!-- <!doctype html> und das html-Element mit Sprachkennzeichnung müssen immer vorhanden sein, damit die Seite funktioniert.-->
+
+	<head>
+		<meta charset="UTF-8" />
+		<!-- Durch dieses Element können Sonderzeichen angezeigt werden (z. B. äöüß oder Emojis) -->
+
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<!-- Browserkompatibilität -->
+
+		<title>[GTD] Anatomie der »index.html«</title>
+		<!-- Titel der Seite. Wird im Browser Tab angezeigt. -->
+
+		<link href="assets/css/reset.css" type="text/css" rel="stylesheet" />
+		<link href="assets/css/style.css" type="text/css" rel="stylesheet" />
+		<!-- Verlinkung der CSS-Dateien -->
+	</head>
+
+	<!-- Im <body> ist alles, was im Browserfenster angezeigt wird. -->
+	<body id="top">
+		<header>Header</header>
+
+		<nav>Navigation</nav>
+
+		<section>
+			<h1>Überschrift 1</h1>
+			<ul>
+				Ungeordnete Liste
+				<li>Listenpunkt</li>
+				<li>Listenpunkt mit <a href="#top">Link</a></li>
+				<li>Listenpunkt</li>
+			</ul>
+			<p>Absatz mit <span class="red">rotem</span> Wort.</p>
+			<div>Div</div>
+		</section>
+
+		<footer>Footer</footer>
+
+		<script src="assets/js/script.js"></script>
+		<!-- Verlinkung der Javascript Dateien -->
+	</body>
+</html>
+<!-- Schließendes html-Element nicht vergessen! -->
